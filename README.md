@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **API REST**
 
-- 🌱 I’m currently learning **React, Boostrap**
+- 🌱 I’m currently learning **React, Bootstrap**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
