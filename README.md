@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seegah pouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seegah pouille" height="30" width="40" /></a>
+<a href="https://twitter.com/Seegah_Pouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seegah pouille" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ndeye-siga-pouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndeye-siga-pouille" height="30" width="40" /></a>
 <a href="https://fb.com/pouille ndeye siga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pouille ndeye siga" height="30" width="40" /></a>
 <a href="https://instagram.com/mimabella_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mimabella_96" height="30" width="40" /></a>
