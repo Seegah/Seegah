@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/Seegah_Pouille" target="blank"><img src="https://img.shields.io/twitter/follow/seegah pouille?logo=twitter&style=for-the-badge" alt="seegah pouille" /></a> </p>
 
-- 🔭 I’m currently working on **API REST**
+- 🔭 I’m currently working on **ASCII ART**
 
-- 🌱 I’m currently learning **React, Bootstrap**
+- 🌱 I’m currently learning **Golang, Tailwind CSS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Golang**
 
 - 📫 How to reach me **pouillesiga@gmail.com**
 
@@ -21,7 +21,7 @@
 <a href="https://twitter.com/Seegah_Pouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seegah pouille" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ndeye-siga-pouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndeye-siga-pouille" height="30" width="40" /></a>
 <a href="https://fb.com/pouille ndeye siga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pouille ndeye siga" height="30" width="40" /></a>
-<a href="https://instagram.com/mimabella_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mimabella_96" height="30" width="40" /></a>
+<a href="https://instagram.com/sigasha_HOoney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sigahsa_hooney" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
