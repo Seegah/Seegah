@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ndeye Siga POUILLE</h1>
-<h3 align="center">A passionate full-Stack developer from Dakar/ Senegal</h3>
+<h3 align="center">A passionate Fullstack Developer from Dakar/Senegal</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seegah&label=Profile%20views&color=0e75b6&style=flat" alt="seegah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Seegah_Pouille" target="blank"><img src="https://img.shields.io/twitter/follow/seegah pouille?logo=twitter&style=for-the-badge" alt="seegah pouille" /></a> </p>
 
-- 🔭 I’m currently working on **ASCII ART**
+- 🔭 I’m currently working on **Social Network**
 
-- 🌱 I’m currently learning **Golang, Tailwind CSS**
+- 🌱 I’m currently learning **Angular, TypeScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Golang**
 
