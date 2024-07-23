@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ndeye Siga POUILLE</h1>
+<h1 align="center">Hi 👋, I'm Ndeye Sig<strong>POUILLE</strong></h1>
 <h3 align="center">A passionate Fullstack Developer from Dakar/Senegal</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
